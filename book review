@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Book Review: The Great Gatsby</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 40px;
+            color: #333;
+        }
+        .review-container {
+            background: #fff;
+            padding: 20px 30px;
+            max-width: 700px;
+            margin: auto;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        .book-cover {
+            float: right;
+            width: 150px;
+            margin-left: 20px;
+            border-radius: 4px;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        .author {
+            font-style: italic;
+            margin-bottom: 10px;
+        }
+        .rating {
+            color: gold;
+            font-size: 1.2em;
+        }
+        .reviewer {
+            margin-top: 30px;
+            font-size: 0.9em;
+            color: #555;
+        }
+        .clear {
+            clear: both;
+        }
+    </style>
+</head>
+<body>
+
+<div class="review-container">
+    <h1>The Great Gatsby</h1>
+    <div class="author">by F. Scott Fitzgerald</div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/TheGreatGatsby_1925jacket.jpeg/440px-TheGreatGatsby_1925jacket.jpeg" alt="The Great Gatsby Cover" class="book-cover">
+
+    <p>
+        *The Great Gatsby* is a timeless classic that explores themes of love, wealth, and the American Dream during the roaring 1920s. 
+        Through the mysterious and extravagant life of Jay Gatsby, Fitzgerald paints a powerful portrait of longing and illusion. 
+        The writing is lyrical, the characters are deeply flawed yet fascinating, and the tragic ending leaves a lasting impression.
+    </p>
+
+    <p>
+        Fitzgerald's storytelling is both poetic and poignant. The symbolism throughout the novel, especially the green light and 
+        the eyes of Dr. T. J. Eckleburg, adds layers of meaning that make the book worth re-reading.
+    </p>
+
+    <div class="rating">
+        ★★★★☆ 4/5
+    </div>
+
+    <div class="reviewer">
+        Reviewed by Jane Doe – September 2025
+    </div>
+
+    <div class="clear"></div>
+</div>
+
+</body>
+</html>
